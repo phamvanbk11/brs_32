@@ -38,6 +38,7 @@ group :development, :test do
   gem "pry-rails"
   gem "rspec-rails", "~> 3.0"
   gem "rspec-collection_matchers"
+  gem "rspec-activemodel-mocks"
   gem "factory_girl_rails", "~> 4.0"
   gem "capybara"
   gem "simplecov", require: false
